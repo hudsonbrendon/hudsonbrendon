@@ -31,9 +31,10 @@
  <a href="https://twitter.com/hudsonbrendon" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  <a href="https://instagram.com/99hud" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
-  # Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+# Blog posts
+
+<!-- Medium:START -->
+<!-- Medium:END -->
 
   
   ![Snake animation](https://github.com/hudsonbrendon/hudsonbrendon/blob/output/github-contribution-grid-snake.svg)
