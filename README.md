@@ -31,7 +31,7 @@
  <a href="https://twitter.com/hudsonbrendon" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  <a href="https://instagram.com/99hud" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
-# Blog posts
+# Latest posts from Medium
 
 <!-- Medium:START -->
 - [Usando Retry em requisições HTTP com Python](https://medium.com/@hudsonbrendon/usando-retry-em-requisi%C3%A7%C3%B5es-http-com-python-d393f5461a62?source=rss-19afda1573d0------2)
