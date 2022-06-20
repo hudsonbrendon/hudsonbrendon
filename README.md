@@ -35,10 +35,10 @@
 
 <!-- Medium:START -->
 - [Usando Retry em requisições HTTP com Python](https://medium.com/@hudsonbrendon/usando-retry-em-requisi%C3%A7%C3%B5es-http-com-python-d393f5461a62?source=rss-19afda1573d0------2)
-- [Configurando o mongoose em projetos com ExpressJS](https://medium.com/@hudsonbrendon/configurando-o-mongoose-em-projetos-com-expressjs-e46a62dd8e1?source=rss-19afda1573d0------2)
-- [Usando todos os recursos do ES6 no NodeJs com Babel](https://medium.com/@hudsonbrendon/usando-todos-os-recursos-do-es6-no-nodejs-com-babel-d285b39f5b93?source=rss-19afda1573d0------2)
-- [Usando serializers diferentes para uma mesma ModelViewSet do Django Rest Framework](https://medium.com/@hudsonbrendon/usando-serializers-diferentes-para-uma-mesma-modelviewset-do-django-rest-framework-92c41dbf0dbf?source=rss-19afda1573d0------2)
-- [Adafruit Circuit Playground Express: Uma alternativa ao Arduino e que suporta Python](https://medium.com/@hudsonbrendon/adafruit-circuit-playground-express-uma-alternativa-ao-arduino-e-que-suporta-python-875169deb4a8?source=rss-19afda1573d0------2)
+- [Autenticação com JWT no Django Rest Framework](https://medium.com/@hudsonbrendon/autentica%C3%A7%C3%A3o-com-jwt-no-django-rest-framework-45626936c276?source=rss-19afda1573d0------2)
+- [Design Patterns com Python: O padrão Strategy](https://medium.com/@hudsonbrendon/design-patterns-com-python-o-padr%C3%A3o-strategy-3cc56f96c05c?source=rss-19afda1573d0------2)
+- [Gerenciando suas dependências e ambientes python com pipenv](https://medium.com/@hudsonbrendon/gerenciando-suas-depend%C3%AAncias-e-ambientes-python-com-pipenv-9e5413513fa6?source=rss-19afda1573d0------2)
+- [Herança, Polimorfismo e o super&lpar;&rpar; do Python](https://medium.com/@hudsonbrendon/entendendo-o-super-do-python-da17ee8d26ca?source=rss-19afda1573d0------2)
 <!-- Medium:END -->
 
   
