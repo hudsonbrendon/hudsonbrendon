@@ -1,5 +1,5 @@
 ### Hi I'm Hudson Brendon
-- 🔭 I’m currently working on Facily
+- 🔭 I’m currently working on Luizalabs
 - 🌱 I’m currently learning [Fastapi](https://fastapi.tiangolo.com/)
 - 👯 I’m looking to collaborate on automation projects as or [Home Assistant](https://www.home-assistant.io/)
 
