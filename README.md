@@ -9,11 +9,11 @@
 # Latest posts from Medium
 
 <!-- Medium:START -->
+- [Resolvendo o problema de versões do python com pyenv](https://medium.com/@hudsonbrendon/resolvendo-o-problema-de-vers%C3%B5es-do-python-com-pyenv-dc506f1898dd?source=rss-19afda1573d0------2)
 - [Criando pacotes python com poetry](https://medium.com/@hudsonbrendon/criando-pacotes-python-com-poetry-f3ef0cdcddb0?source=rss-19afda1573d0------2)
 - [Usando Retry em requisições HTTP com Python](https://medium.com/@hudsonbrendon/usando-retry-em-requisi%C3%A7%C3%B5es-http-com-python-d393f5461a62?source=rss-19afda1573d0------2)
 - [Autenticação com JWT no Django Rest Framework](https://medium.com/@hudsonbrendon/autentica%C3%A7%C3%A3o-com-jwt-no-django-rest-framework-45626936c276?source=rss-19afda1573d0------2)
 - [Design Patterns com Python: O padrão Strategy](https://medium.com/@hudsonbrendon/design-patterns-com-python-o-padr%C3%A3o-strategy-3cc56f96c05c?source=rss-19afda1573d0------2)
-- [Gerenciando suas dependências e ambientes python com pipenv](https://medium.com/@hudsonbrendon/gerenciando-suas-depend%C3%AAncias-e-ambientes-python-com-pipenv-9e5413513fa6?source=rss-19afda1573d0------2)
 <!-- Medium:END -->
 
 </div>
