@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning [Fastapi](https://fastapi.tiangolo.com/)
 - 👯 I’m looking to collaborate on automation projects as or [Home Assistant](https://www.home-assistant.io/)
 
+# nostr:
+npub1fwvagukdmkd5fd7gwpxs59jsta09zt4vh7afmkrche9yslm5kunqlgnwxd
+
  <a href="https://medium.com/@hudsonbrendon" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/hudsonbrendon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
