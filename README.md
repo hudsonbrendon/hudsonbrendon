@@ -1,7 +1,7 @@
 ### Hi I'm Hudson Brendon
-- 🔭 I’m currently working on Luizalabs
-- 🌱 I’m currently learning [Fastapi](https://fastapi.tiangolo.com/)
-- 👯 I’m looking to collaborate on automation projects as or [Home Assistant](https://www.home-assistant.io/)
+- 💻 Software engineer who loves working with python, nodejs, go and rust
+- 🚀 I love open source, open hardware and home automation
+- 🕹️ I'm a retrogame lover and software and hardware mods
 
 # nostr:
 npub12g6y7jvexxt4pnzgtzgcpja2qxlj33gm7kvk7wc4x2y0c2pxqc3qkfgs7k
