@@ -4,7 +4,7 @@
 - 🕹️ I'm a retrogame lover and software and hardware mods
 
 # nostr:
-npub12g6y7jvexxt4pnzgtzgcpja2qxlj33gm7kvk7wc4x2y0c2pxqc3qkfgs7k
+npub1c9l9gvsyf80e6dl9jcpvcud3dh39w80yykas8fmjsxkx4445z83swmrq8s
 
  <a href="https://medium.com/@hudsonbrendon" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/hudsonbrendon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
